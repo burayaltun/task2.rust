@@ -1,2 +1,2 @@
 # task2.
-- Second task of Polkato Rust Bootcamp.
+- Second task of Polkadato Rust Bootcamp.
